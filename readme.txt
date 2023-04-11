@@ -1,2 +1,2 @@
 khalid alharbi
-learning git
+learning git and GitHub
